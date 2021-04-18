@@ -5,6 +5,7 @@ config.py
 citipy.py
 worldcities.csv
 weather_data
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
